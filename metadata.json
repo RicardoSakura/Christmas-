@@ -1,0 +1,7 @@
+{
+  "name": "Magic Holiday Particle Tree",
+  "description": "An interactive 3D holiday experience using Three.js and MediaPipe hand tracking to control a particle-based Christmas tree with gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

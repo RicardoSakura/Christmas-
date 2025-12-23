@@ -1,0 +1,21 @@
+
+export const COLORS = {
+  GOLD: '#D4AF37',
+  CRIMSON: '#DC143C',
+  SNOW: '#FFFFFF',
+  MAGIC_BLUE: '#00F5FF',
+  DEEP_NIGHT: '#050505'
+};
+
+export const GESTURE_SENSITIVITY = {
+  PINCH_THRESHOLD: 0.05,
+  HEART_ANGLE_THRESHOLD: 11, // degrees
+  FIST_THRESHOLD: 0.08
+};
+
+export const PARTICLE_CONFIG = {
+  PC_COUNT: 12000, 
+  MOBILE_COUNT: 4000,
+  STAR_COUNT: 300,
+  SNOW_COUNT: 1500 // 增加雪花数量
+};
